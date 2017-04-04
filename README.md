@@ -1,2 +1,2 @@
 # mysqlzlib
-Support for compressed data in aMySQL store
+Support for compressed data in a MySQL store
